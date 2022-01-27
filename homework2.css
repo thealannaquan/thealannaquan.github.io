@@ -1,0 +1,21 @@
+body {
+  background-color:#C6A482;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h1 {text-align: center; color: #4F3236}
+p {text-align: center;}
+
+#paragraph{
+  color: #A51F29;
+}
+
+img {
+  border: 5px solid #5E3F44;
+}
